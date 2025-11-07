@@ -8,9 +8,9 @@ vector-sketch-cartoon-illustration-of-fashion-programmer-girl-with-eyeglasses-an
 
 - 🔭 I’m currently working on **Dexter's byte**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Cybersecurity**
 
-- 💬 Ask me about **PHP, HTML, laravel**
+- 💬 Ask me about **PHP, HTML, laravel, Python**
 
 - 📫 How to reach me **sadianushrat7@gmail.com**
 
